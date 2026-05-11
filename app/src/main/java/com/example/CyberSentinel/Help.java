@@ -26,8 +26,8 @@ import java.util.List;
 import org.json.JSONArray;
 import org.json.JSONObject;
 public class Help extends AppCompatActivity {
-    private static final String API_TOKEN = "sk.................";
-    private static final String API_URL = "https://openrouter.ai/api/v1/chat/completions";
+    private static final String API_TOKEN = " ";
+    private static final String API_URL = " ";
 // private EditText inputEditText;
     // private Button sendButton;
     // private TextView chatOutput;
